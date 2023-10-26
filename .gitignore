@@ -1,3 +1,0 @@
-src/*/!(baz)
-.DS_Store
-*.tgz
