@@ -1,0 +1,10 @@
+{
+  "name": "npm-files-glob",
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "files": [
+    "src/*/!(baz)"
+  ]
+}
